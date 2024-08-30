@@ -1,1 +1,1 @@
-# MilitaryDeck
+# MilitaryDeck-Legacy
